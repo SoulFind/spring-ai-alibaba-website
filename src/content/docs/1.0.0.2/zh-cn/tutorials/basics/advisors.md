@@ -233,7 +233,7 @@ Spring AI Alibaba框架提供了几个内置的 advisors 来增强您的 AI 交�
 
 这些 advisors 在文档处理中管理有关文档的各种信息：
 
-- `RetrievalRerankAdvisor`
+- `DocumentRetrievalAdvisor`
 
   提供按照文档的相关性进行重新排序的方法
 
